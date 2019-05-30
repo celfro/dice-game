@@ -1,1 +1,2 @@
 # dice-game
+# makers-notes
